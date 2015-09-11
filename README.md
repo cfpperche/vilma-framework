@@ -5,7 +5,7 @@ For a complete installation of the system workspace see [wiki](https://github.co
 ### Documentation:
 
 #### Packages
-* **vilma-core**: base package for projects.
-* **vilma-tools**: tools to generate a project from template and other stuff.
-* **vilma-scripts**: scripts to configure a project.
-* **vilma-cmake**:  cmake useful macros to build packages of projects.
+* **vilma_core**: base package for projects.
+* **vilma_tools**: tools to generate a project from template and other stuff.
+* **vilma_scripts**: scripts to configure a project.
+* **vilma_cmake**:  cmake useful macros to build packages of projects.
